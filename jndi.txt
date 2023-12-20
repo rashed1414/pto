@@ -13,3 +13,7 @@
 
 
 https://itnext.io/whats-new-in-jakarta-persistence-3-1-by-examples-81b292e8b3a4
+
+
+		<version.maven-deploy-plugin>2.8.2</version.maven-deploy-plugin>
+		<version.nexus-staging-maven-plugin>1.6.5</version.nexus-staging-maven-plugin>
