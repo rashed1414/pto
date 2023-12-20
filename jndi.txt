@@ -9,3 +9,7 @@
         bean.afterPropertiesSet();
         return (DataSource) bean.getObject();
     }
+
+
+
+https://itnext.io/whats-new-in-jakarta-persistence-3-1-by-examples-81b292e8b3a4
